@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer with a keen interes
 ---
 
 ## 🚀 About Me  
-I'm a passionate and adaptable Node.js Developer with a strong foundation in JavaScript, MySQL, and MongoDB. I thrive on solving complex problems and building efficient, scalable backend solutions.
+I'm a passionate and adaptable Node.js Developer with a strong foundation in Next.js, React.js, Express.js, JavaScript, Typescript, MySQL, PostgreSQL, and MongoDB. I thrive on solving complex problems and building efficient, scalable backend solutions.
 
 - 💡 I enjoy collaborating with cross-functional teams to turn ideas into reality, ensuring that every project is both functional and high-performing.
 - 🔬 I'm always eager to learn and explore new technologies, including Generative AI, to enhance software solutions and optimize performance. 
@@ -14,11 +14,11 @@ I'm a passionate and adaptable Node.js Developer with a strong foundation in Jav
 ---
 
 ## 🌟 Tech Stack
-- **Languages**: JavaScript, Python
-- **Front-End**: HTML5, CSS3, Tailwind, Javascript
-- **Backend**: Node.js, Express.js 
-- **Databases**: MySQL, MongoDB  
-- **Tools & Platforms**: Git, GitHub, Postman, Figma
+- **Languages**: JavaScript, Typescript, Python
+- **Front-End**: HTML5, CSS3, React.js, Tailwind, Bootstrap
+- **Backend**: Node.js, Express.js, Next.js, Prisma ORM
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools & Platforms**: Git, GitHub, Postman, Figma, Linear, Firebase, Docker, Cursor
 - **Others**: RESTful APIs, JWT, BcryptJS, API Documentation
 
 ---
